@@ -6,5 +6,7 @@
 - 我见青山多妩媚，料青山见我应如是。
 - 人间有味是清欢。
 - 事无两样，心有别。
+- 欲买桂花同载酒，终不似，少年游。
+- 且视他人之疑目如盏盏鬼火，大胆地去走自己的夜路。
 
 ![](https://github-readme-stats.vercel.app/api?username=AlgoYu)
